@@ -1,0 +1,2 @@
+# Wireless-Security-Research-Knowledge-Base-In-depth-Analysis-of-Security-in-802.11-Protocol
+本项目是一套 完整的无线安全研究知识库与实验平台，系统性地整理和分析了 802.11 协议族的安全架构、管理帧漏洞及纵深防御策略。内容涵盖：  802.11 管理帧体系深度解析（Beacon / Probe / Auth / Assoc / Deauth / Disassoc）  Deauthentication / Disassociation 攻击的协议原理、帧结构、代码实现与工具实战  PMF（802.11w 受保护管理帧）的密码学防护机制与部署策略  WPA/WPA2/WPA3 认证与加密体系全链路对比  无线安全研究全景知识树（309 个知识点，12 大章节）  ESP8266/ESP32 嵌入式平台上的完整实现代码
